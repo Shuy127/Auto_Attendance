@@ -55,7 +55,7 @@
 ![](https://raw.githubusercontent.com/lxy764139720/Figurebed/master/img/20200817190653.png)
 
 ​	点击New Secret按钮新建四个密码：
-
+ 
 * USERNAME：你的中南大学学工号
 
 * PASSWORD：你的中南大学信息门户密码
